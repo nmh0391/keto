@@ -15,4 +15,4 @@ Every app that has users usually assigns permissions to these users ("Bob and
 Alice are allowed to write blog posts"). There are various established best
 practices for assigning one or more permissions to one or more users. In the
 context of access control, you'll often encounter **users**, **identities** or
-**subjects**. They typically include users, robots, cronjobs, services, etc.
+**subjects**. They typically include users, robots, cronjobs, services, etc.n
